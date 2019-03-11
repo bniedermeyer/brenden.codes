@@ -2,12 +2,12 @@
 
 module.exports = {
   url: 'https://lumen.netlify.com',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
-  copyright: '© All rights reserved.',
+  title: 'Blog | Brenden Niedermeyer',
+  subtitle: '',
+  copyright: '©2019 All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  googleAnalyticsId: '',
   menu: [
     {
       label: 'Articles',
@@ -23,16 +23,17 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
-    photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    name: 'Brenden Niedermeyer',
+    photo: '/headshot.jpg',
+    bio:
+      'A full-stack developer in Seatlle. Passionate about web developement. ',
     contacts: {
-      email: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
-      rss: '#',
-      vkontakte: '#'
+      email: 'contact@brenden.dev',
+      twitter: 'thenieds',
+      github: 'bniedermeyer',
+      linkedin: 'bniedermeyer',
+      resume: 'https://brenden.fyi',
+      rss: '#'
     }
   }
 };
