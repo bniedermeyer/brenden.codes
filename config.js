@@ -1,27 +1,13 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://brenden.codes',
   title: 'Blog | Brenden Niedermeyer',
   subtitle: '',
   copyright: '©2019 All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
   googleAnalyticsId: '',
-  menu: [
-    {
-      label: 'Articles',
-      path: '/'
-    },
-    {
-      label: 'About me',
-      path: '/pages/about'
-    },
-    {
-      label: 'Contact me',
-      path: '/pages/contacts'
-    }
-  ],
   author: {
     name: 'Brenden Niedermeyer',
     photo: '/headshot.jpg',
@@ -33,7 +19,7 @@ module.exports = {
       github: 'bniedermeyer',
       linkedin: 'bniedermeyer',
       resume: 'https://brenden.fyi',
-      rss: '#'
+      rss: '/rss.xml'
     }
   }
 };

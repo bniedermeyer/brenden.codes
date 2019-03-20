@@ -3,11 +3,10 @@ import { graphql, StaticQuery } from 'gatsby';
 import Author from './Author';
 import Contacts from './Contacts';
 import Copyright from './Copyright';
-import Menu from './Menu';
 import styles from './Sidebar.module.scss';
 
 export const PureSidebar = ({ data, isIndex }) => {
-  const { author, copyright, menu } = data.site.siteMetadata;
+  const { author, copyright } = data.site.siteMetadata;
 
   return (
     <div className={styles['sidebar']}>
