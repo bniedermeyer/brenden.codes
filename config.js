@@ -12,7 +12,7 @@ module.exports = {
     name: 'Brenden Niedermeyer',
     photo: '/headshot.jpg',
     bio:
-      'A full-stack developer in Seatlle. Passionate about web developement. ',
+      'A full-stack developer in Seattle. Passionate about web developement. ',
     contacts: {
       email: 'contact@brenden.dev',
       twitter: 'thenieds',
