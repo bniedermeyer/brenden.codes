@@ -6,7 +6,7 @@
   "scripts": {
     "develop": "npm run clean && gatsby develop",
     "build": "npm run clean && gatsby build",
-    "deploy": "npm run clean && gatsby build --prefix-paths && copy CNAME public && gh-pages -d public",
+    "deploy": "npm run clean && gatsby build --prefix-paths && cp CNAME ./public && gh-pages -d public",
     "clean": "rimraf .cache public",
     "lint:js": "eslint --cache --ext .js,.jsx --ignore-pattern public .",
     "lint:scss": "stylelint \"src/**/*.scss\"",
