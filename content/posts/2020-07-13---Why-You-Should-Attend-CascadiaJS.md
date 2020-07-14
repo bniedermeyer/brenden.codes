@@ -2,7 +2,7 @@
 title: Why You Should Attend CascadiaJS
 date: "2020-07-13T12:40:32.169Z"
 template: "post"
-draft: false
+draft: true
 slug: "/posts/why-cascadiajs/"
 category: "Conferences"
 tags:
