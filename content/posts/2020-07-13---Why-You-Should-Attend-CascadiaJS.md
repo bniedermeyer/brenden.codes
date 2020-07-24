@@ -41,9 +41,7 @@ A great example of the strength of the CascadiaJS community is the [Opportunity 
 
 Past events have ranged from having parties at the Living Computers Museum, renting out entire movie theaters for a special premier, karaoke get togethers and events focusing on mentorship.
 
-This year will obviously be a bit different because of the remote aspect driven by the global situation with COVID-19, but word has it the team has some great surprises in store.
-
-You don't even have to wait until September to join in! There are events planned prior to the conference kick off (including a job fair the day before the conference).
+This year will obviously be a bit different because of the remote aspect driven by the global situation with COVID-19, but word has it the team has some great surprises in store.You don't even have to wait until September to join in! There are events planned prior to the conference kick off (including a job fair the day before the conference).
 
 Did I mention that you get incredible swag just for buying a ticket? This year all attendees who register before the 24th (that's today!), will get a coveted CascadiaJS hoodie, a bunch of stickers, and other secret surprises.
 
