@@ -2,7 +2,7 @@
 title: Why You Should Attend CascadiaJS
 date: "2020-07-13T12:40:32.169Z"
 template: "post"
-draft: true
+draft: false
 slug: "/posts/why-cascadiajs/"
 category: "Conferences"
 tags:
@@ -43,9 +43,9 @@ Past events have ranged from having parties at the Living Computers Museum, rent
 
 This year will obviously be a bit different because of the remote aspect driven by the global situation with COVID-19, but word has it the team has some great surprises in store.
 
-You don't even have to wait until September to join in! On July 15th, there will be a [free pre-funk event](https://ti.to/event-loop/cjs20-july-prefunk) with all donations benefiting the Opportunity Scholarships program, with more events planned prior to the conference kick off (including a job fair the day before the conference).
+You don't even have to wait until September to join in! There are events planned prior to the conference kick off (including a job fair the day before the conference).
 
-Did I mention that you get incredible swag just for buying a ticket? This year all attendees who register before the 24th, will get a coveted CascadiaJS hoodie, a bunch of stickers, and other secret surprises.
+Did I mention that you get incredible swag just for buying a ticket? This year all attendees who register before the 24th (that's today!), will get a coveted CascadiaJS hoodie, a bunch of stickers, and other secret surprises.
 
 # Want to join the fun?
 
