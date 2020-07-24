@@ -1,6 +1,6 @@
 ---
-title: Why You Should Attend CascadiaJS
-date: "2020-07-13T12:40:32.169Z"
+title: Why I got involved with CascadiaJS
+date: "2020-07-24T12:40:32.169Z"
 template: "post"
 draft: false
 slug: "/posts/why-cascadiajs/"
@@ -9,6 +9,8 @@ tags:
   - "Web Development"
   - "Conference"
   - "CascadiaJS"
+  - "Community
+  - "Swag"
 description: "CascadiaJS is one of my favorite conferences. Here's why..."
 ---
 
@@ -43,7 +45,7 @@ Past events have ranged from having parties at the Living Computers Museum, rent
 
 This year will obviously be a bit different because of the remote aspect driven by the global situation with COVID-19, but word has it the team has some great surprises in store.You don't even have to wait until September to join in! There are events planned prior to the conference kick off (including a job fair the day before the conference).
 
-Did I mention that you get incredible swag just for buying a ticket? This year all attendees who register before the 24th (that's today!), will get a coveted CascadiaJS hoodie, a bunch of stickers, and other secret surprises.
+Did I mention that you still get incredible swag just for buying a ticket? Just because we can't hang out in person doesn't mean we should miss out on all the cool conference stuff! This year all attendees who register before the 24th (that's today!) will get a coveted CascadiaJS hoodie, a bunch of stickers, and other really cool secret surprises in time for the conference. You really don't want to miss out on it, trust me. 
 
 # Want to join the fun?
 
